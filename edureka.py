@@ -1,0 +1,1 @@
+print('excruciating pain of consistency')
